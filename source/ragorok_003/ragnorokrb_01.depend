@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1280299307 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_entities_constructor.cpp
+	"game_entities.h"
+
+1280362948 /home/cipher/Coding/rpg/rag_final/ragnorokrb/game_entities.h
+	"boost/multi_array.hpp"
+	<iostream>
+
+1280282169 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_entities_destructor.cpp
+	"game_entities.h"
+
+1280349758 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_entitiy_give-entity.cpp
+	"game_entities.h"
+
+1280169035 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_save_destructor.cpp
+	"game_saves.hpp"
+
+1280207328 /home/cipher/Coding/rpg/rag_final/ragnorokrb/game_saves.hpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+
+1280207090 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_saves_constructor.cpp
+	"game_saves.hpp"
+
+1280207312 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_saves_load.cpp
+	"game_saves.hpp"
+
+1280193848 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_saves_new-entitiy.cpp
+	"game_saves.hpp"
+	"game_int2str.h"
+
+1280222106 /home/cipher/Coding/rpg/rag_final/ragnorokrb/game_int2str.h
+
+1280207295 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_saves_write.cpp
+	"game_saves.hpp"
+	"game_int2str.h"
+
+1280457543 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/main.cpp
+	<iostream>
+	"boost/multi_array.hpp"
+	"common_inclusions.h"
+
+1280210177 /home/cipher/Coding/rpg/rag_final/ragnorokrb/common_inclusions.h
+	"game_entities.h"
+	"game_overlord.hpp"
+	"game_saves.hpp"
+
+1280459953 /home/cipher/Coding/rpg/rag_final/ragnorokrb/game_overlord.hpp
+	"game_entities.h"
+	<iostream>
+
+1280258198 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_save_find.cpp
+	"game_saves.hpp"
+
+1280361889 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_entities_return-set.cpp
+	"game_entities.h"
+
+1280298937 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_overlord_attack.cpp
+	"game_overlord.hpp"
+
+1280457580 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_overlord_constructor.cpp
+	"game_overlord.hpp"
+
+1280359790 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_overlord_destructor.cpp
+	"game_overlord.hpp"
+
+1280459667 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_overlord_add.cpp
+	"game_overlord.hpp"
+
+1280362937 source:/home/cipher/Coding/rpg/rag_final/ragnorokrb/game_entites_inventory.cpp
+	"game_entities.h"
+	"game_overlord.hpp"
+
+1280362804 /home/cipher/Coding/rpg/rag_final/ragnorokrb/items.h
+	"game_overlord.hpp"
+
+1280362936 source:/media/Lexar/v8/game_entites_inventory.cpp
+	"game_entities.h"
+	"game_overlord.hpp"
+
+1280362948 /media/Lexar/v8/game_entities.h
+	"boost/multi_array.hpp"
+	<iostream>
+
+1280662447 /media/Lexar/v8/game_overlord.hpp
+	"game_entities.h"
+	<iostream>
+
+1280299306 source:/media/Lexar/v8/game_entities_constructor.cpp
+	"game_entities.h"
+
+1280282168 source:/media/Lexar/v8/game_entities_destructor.cpp
+	"game_entities.h"
+
+1280361888 source:/media/Lexar/v8/game_entities_return-set.cpp
+	"game_entities.h"
+
+1280349758 source:/media/Lexar/v8/game_entitiy_give-entity.cpp
+	"game_entities.h"
+
+1280662756 source:/media/Lexar/v8/game_overlord_add.cpp
+	"game_overlord.hpp"
+	"game_int2str.h"
+
+1280298936 source:/media/Lexar/v8/game_overlord_attack.cpp
+	"game_overlord.hpp"
+
+1280457580 source:/media/Lexar/v8/game_overlord_constructor.cpp
+	"game_overlord.hpp"
+
+1280359790 source:/media/Lexar/v8/game_overlord_destructor.cpp
+	"game_overlord.hpp"
+
+1280169034 source:/media/Lexar/v8/game_save_destructor.cpp
+	"game_saves.hpp"
+
+1280207328 /media/Lexar/v8/game_saves.hpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+
+1280258198 source:/media/Lexar/v8/game_save_find.cpp
+	"game_saves.hpp"
+
+1280207090 source:/media/Lexar/v8/game_saves_constructor.cpp
+	"game_saves.hpp"
+
+1280207312 source:/media/Lexar/v8/game_saves_load.cpp
+	"game_saves.hpp"
+
+1280193848 source:/media/Lexar/v8/game_saves_new-entitiy.cpp
+	"game_saves.hpp"
+	"game_int2str.h"
+
+1280222106 /media/Lexar/v8/game_int2str.h
+
+1280207294 source:/media/Lexar/v8/game_saves_write.cpp
+	"game_saves.hpp"
+	"game_int2str.h"
+
+1280662292 source:/media/Lexar/v8/main.cpp
+	<iostream>
+	"boost/multi_array.hpp"
+	"common_inclusions.h"
+
+1280210176 /media/Lexar/v8/common_inclusions.h
+	"game_entities.h"
+	"game_overlord.hpp"
+	"game_saves.hpp"
+
