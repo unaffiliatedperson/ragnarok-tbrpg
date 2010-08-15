@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1281767406 source:/media/Lexar/v8/game_entities_constructor.cpp
+	"game_entities.h"
+
+1281831976 /media/Lexar/v8/game_entities.h
+	"boost/multi_array.hpp"
+	<iostream>
+
+1280282168 source:/media/Lexar/v8/game_entities_destructor.cpp
+	"game_entities.h"
+
+1281210002 source:/media/Lexar/v8/game_entities_return-set.cpp
+	"game_entities.h"
+	"string.h"
+
+1281840222 source:/media/Lexar/v8/game_entitiy_give-entity.cpp
+	"game_entities.h"
+
+1281848119 source:/media/Lexar/v8/game_overlord_add.cpp
+	"game_overlord.hpp"
+	"game_int2str.h"
+
+1281832018 /media/Lexar/v8/game_overlord.hpp
+	"game_entities.h"
+	"game_saves.hpp"
+	<iostream>
+
+1280722094 /media/Lexar/v8/game_saves.hpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+
+1280222106 /media/Lexar/v8/game_int2str.h
+
+1281329896 source:/media/Lexar/v8/game_overlord_attack.cpp
+	"game_overlord.hpp"
+
+1281207656 source:/media/Lexar/v8/game_overlord_constructor.cpp
+	"game_overlord.hpp"
+
+1280359790 source:/media/Lexar/v8/game_overlord_destructor.cpp
+	"game_overlord.hpp"
+
+1280169034 source:/media/Lexar/v8/game_save_destructor.cpp
+	"game_saves.hpp"
+
+1281039386 source:/media/Lexar/v8/game_save_find.cpp
+	"game_saves.hpp"
+
+1280740020 source:/media/Lexar/v8/game_saves_constructor.cpp
+	"game_saves.hpp"
+
+1280723430 source:/media/Lexar/v8/game_saves_load.cpp
+	"game_saves.hpp"
+
+1280719994 source:/media/Lexar/v8/game_saves_new-entitiy.cpp
+	"game_saves.hpp"
+	"game_int2str.h"
+
+1281039360 source:/media/Lexar/v8/game_saves_write.cpp
+	"game_saves.hpp"
+	"game_int2str.h"
+
+1281845601 source:/media/Lexar/v8/main.cpp
+	<iostream>
+	"boost/multi_array.hpp"
+	"common_inclusions.h"
+	"game_int2str.h"
+
+1280210176 /media/Lexar/v8/common_inclusions.h
+	"game_entities.h"
+	"game_overlord.hpp"
+	"game_saves.hpp"
+
+1281848043 source:/media/Lexar/v8/game_entites_inventory.cpp
+	"game_entities.h"
+	"game_overlord.hpp"
+	"string.h"
+
+1281767406 source:/media/Lexar/back_up_08/game_entities_constructor.cpp
+	"game_entities.h"
+
+1281886861 /media/Lexar/back_up_08/game_entities.h
+	"boost/multi_array.hpp"
+	<iostream>
+	"game_item.h"
+
+1280282168 source:/media/Lexar/back_up_08/game_entities_destructor.cpp
+	"game_entities.h"
+
+1281210002 source:/media/Lexar/back_up_08/game_entities_return-set.cpp
+	"game_entities.h"
+	"string.h"
+
+1281840222 source:/media/Lexar/back_up_08/game_entitiy_give-entity.cpp
+	"game_entities.h"
+
+1281906777 source:/media/Lexar/back_up_08/game_overlord_add.cpp
+	"game_overlord.hpp"
+	"game_int2str.h"
+
+1281887351 /media/Lexar/back_up_08/game_overlord.hpp
+	"game_entities.h"
+	"game_saves.hpp"
+	"game_item.h"
+	<iostream>
+
+1280722094 /media/Lexar/back_up_08/game_saves.hpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+
+1280222106 /media/Lexar/back_up_08/game_int2str.h
+
+1281329896 source:/media/Lexar/back_up_08/game_overlord_attack.cpp
+	"game_overlord.hpp"
+
+1281207656 source:/media/Lexar/back_up_08/game_overlord_constructor.cpp
+	"game_overlord.hpp"
+
+1280359790 source:/media/Lexar/back_up_08/game_overlord_destructor.cpp
+	"game_overlord.hpp"
+
+1280169034 source:/media/Lexar/back_up_08/game_save_destructor.cpp
+	"game_saves.hpp"
+
+1281039386 source:/media/Lexar/back_up_08/game_save_find.cpp
+	"game_saves.hpp"
+
+1280740020 source:/media/Lexar/back_up_08/game_saves_constructor.cpp
+	"game_saves.hpp"
+
+1280723430 source:/media/Lexar/back_up_08/game_saves_load.cpp
+	"game_saves.hpp"
+
+1280719994 source:/media/Lexar/back_up_08/game_saves_new-entitiy.cpp
+	"game_saves.hpp"
+	"game_int2str.h"
+
+1281039360 source:/media/Lexar/back_up_08/game_saves_write.cpp
+	"game_saves.hpp"
+	"game_int2str.h"
+
+1281907069 source:/media/Lexar/back_up_08/main.cpp
+	<iostream>
+	"boost/multi_array.hpp"
+	"common_inclusions.h"
+	"game_int2str.h"
+
+1281894942 /media/Lexar/back_up_08/common_inclusions.h
+	"game_entities.h"
+	"game_overlord.hpp"
+	"game_saves.hpp"
+	<map>
+
+1281886933 source:/media/Lexar/back_up_08/game_entites_inventory.cpp
+	"game_entities.h"
+	"game_overlord.hpp"
+	"string.h"
+	"game_item.h"
+
+1281886928 /media/Lexar/back_up_08/game_item.h
+
